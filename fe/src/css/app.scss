@@ -1,0 +1,15 @@
+// app global css in SCSS form
+@import './quasar.variables.scss';
+
+// used for debugging only to quickly outline the elements
+.dbgb {
+    box-shadow: 0 0 0 2px rgba(red, 0.4);
+}
+
+.bg-dark-page {
+    background-color: $dark-page;
+}
+
+.settings-table-row {
+    border-top: 1px solid rgba($primary, 0.3);
+}

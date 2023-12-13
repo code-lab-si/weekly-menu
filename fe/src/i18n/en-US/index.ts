@@ -1,0 +1,32 @@
+// This is just an example,
+// so you can safely delete all default props below
+
+export default {
+  failed: 'Action failed',
+  success: 'Action was successful',
+  This_week: 'This week',
+  Next_week: 'Next week',
+  Previous_week: 'Previous week',
+  No_results: 'No results',
+  Search_for_a_specific_meal: 'Search for a specific meal',
+  Generate_new_random_meal_for_this_day:
+    'Generate new random meal for this day',
+  Settings: 'Settings',
+  Close: 'Close',
+  Go_to_prev_week: 'Go to previous week',
+  Go_to_current_week: 'Go to current week',
+  Go_to_next_week: 'Go to next week',
+  Ingredients: 'Ingredients',
+  Dishes: 'Dishes',
+  Meals: 'Meals',
+  Name: 'Name',
+  Recipe: 'Recipe',
+  Cancel: 'Cancel',
+  Season: 'Season',
+  Is_favorite: 'Is favorite',
+  Add_meal: 'Add meal',
+  Add_dish: 'Add dish',
+  Add_ingredient: 'Add ingredient',
+  Delete: 'Delete',
+  Save: 'Save',
+};
