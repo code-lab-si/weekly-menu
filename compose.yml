@@ -10,3 +10,9 @@ services:
     volumes:
       - ./fe:/app/fe
       - /app/fe/node_modules
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile.dev
+    volumes:
+      - ./api:/app/api
