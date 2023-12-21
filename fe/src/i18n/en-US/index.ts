@@ -29,4 +29,6 @@ export default {
   Add_ingredient: 'Add ingredient',
   Delete: 'Delete',
   Save: 'Save',
+  Dish: 'Dish',
+  Favorite: 'Favorite',
 };

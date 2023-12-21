@@ -86,7 +86,7 @@
               size="sm"
               class="float-right q-ml-sm"
               type="submit"
-              :label="t('Create_dish')"
+              :label="t('Save')"
               color="primary"
               text-color="secondary"
             ></q-btn>

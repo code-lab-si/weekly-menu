@@ -86,7 +86,7 @@
             <q-btn
               class="float-right q-ml-sm"
               type="submit"
-              :label="t('Create_ingredient')"
+              :label="t('Save')"
               color="primary"
               text-color="secondary"
             ></q-btn>
